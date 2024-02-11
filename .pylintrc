@@ -4,6 +4,7 @@ disable=
     C0115, # missing-classe-docstring
     C0116, # missing-function-docstring
     W0703, # Catchig too general exception
+    R0903, # too-few-public-methods
 
 init-hook='import sys; sys.path.append("/home/helton/projects/python")'
 
